@@ -36,7 +36,8 @@ A collaborative filtering-based movie recommendation system built using the Movi
 
    - If you are running Python 3.12 like me, make sure pip is updated: python -m ensurepip --upgrade
 
-   - pip3 install -r requirements.txt
+   ```bash
+     pip3 install -r requirements.txt
 
 5. **Download the MovieLens 32M Dataset**
 
