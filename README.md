@@ -34,7 +34,10 @@ A collaborative filtering-based movie recommendation system built using the Movi
 
 3. **Install Dependencies**
 
-   - If you are running Python 3.12 like me, make sure pip is updated: python -m ensurepip --upgrade
+   - If you are running Python 3.12 like me, make sure pip is updated:
+   ```bash
+     python -m ensurepip --upgrade
+    ```
 
    ```bash
      pip3 install -r requirements.txt
