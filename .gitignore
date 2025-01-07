@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+ml-32m/
