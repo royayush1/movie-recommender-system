@@ -38,7 +38,7 @@ A collaborative filtering-based movie recommendation system built using the Movi
    ```bash
      python -m ensurepip --upgrade
     ```
-
+   - Install all necessary libraries:
    ```bash
      pip3 install -r requirements.txt
 
