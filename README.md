@@ -72,19 +72,19 @@ A hybrid movie recommendation system that combines a Collaborative Filtering Mod
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center;">
-    <img src="images/LoadingModels.png" width="45%" />
+    <img src="images/LoadingModels.png" width="75%" />
     <p><strong>Loading Models:</strong> SVD Model and Annoy Index.</p>
   </div>
   <div style="text-align: center;">
-    <img src="images/Homepage.png" width="45%" />
+    <img src="images/Homepage.png" width="75%" />
     <p><strong>Homepage:</strong> Model successfully loaded and waiting for user to input user ID.</p>
   </div>
     <div style="text-align: center;">
-    <img src="images/GeneratingRecommendations.png" width="45%" />
+    <img src="images/GeneratingRecommendations.png" width="75%" />
     <p><strong>Generating Recommendations:</strong> Using Collaborative filtering and content based models to generate recommendations.</p>
     </div>
     <div style="text-align: center;">
-    <img src="images/DisplayRecommendations.png" width="45%" />
+    <img src="images/DisplayRecommendations.png" width="75%" />
     <p><strong>Recommendations:</strong> Displayed movie suggestions.</p>
     </div>
 </div>
