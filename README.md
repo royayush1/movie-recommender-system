@@ -70,7 +70,7 @@ A hybrid movie recommendation system that combines a Collaborative Filtering Mod
 
 ## 📷 **Screenshots**
 
-- Note: User ID 200949 shown in the screenshots below does not exist in the original downloaded dataset and was just an added user for testing purposes
+- Note: User ID 200950 shown in the screenshots below does not exist in the original downloaded dataset and was just an added user for testing purposes
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center;">
